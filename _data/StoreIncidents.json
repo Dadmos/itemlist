@@ -72,7 +72,7 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 750,
+		"price": 150,
 		"karmatype": "Neutral"
 	},
 	{
@@ -153,7 +153,7 @@
 	{
 		"abr": "militaryaid",
 		"price": 1500,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "raid",
@@ -178,11 +178,6 @@
 	{
 		"abr": "reviveanypawn",
 		"price": 1200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "pawn",
-		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -403,7 +398,7 @@
 	{
 		"abr": "raidmechanoidsappers",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "fungalhuskwandersin",
@@ -516,5 +511,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 103
+	"total": 102
 }
