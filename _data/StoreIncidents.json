@@ -71,16 +71,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "meteor",
-		"price": 150,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "maninblack",
-		"price": 350,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
@@ -136,11 +126,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "skillincrease",
-		"price": 200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "party",
 		"price": 400,
 		"karmatype": "Good"
@@ -149,11 +134,6 @@
 		"abr": "alphabeavers",
 		"price": 600,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "militaryaid",
-		"price": 1500,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "raid",
@@ -176,11 +156,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "reviveanypawn",
-		"price": 1200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
@@ -199,11 +174,6 @@
 		"abr": "genderswap",
 		"price": 600,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "prisoner",
-		"price": 800,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "visitcolony",
@@ -226,31 +196,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "reviveall",
-		"price": 22664,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "reviveme",
-		"price": 2833,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healall",
-		"price": 17336,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healanypawn",
-		"price": 2000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healme",
-		"price": 2167,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "surgery",
 		"price": 1,
 		"karmatype": "Neutral"
@@ -264,16 +209,6 @@
 		"abr": "replacetrait",
 		"price": 1,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "rescueme",
-		"price": 800,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "fullheal",
-		"price": 2167,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "passion",
@@ -382,7 +317,7 @@
 	},
 	{
 		"abr": "gallatrosswanderin",
-		"price": 800,
+		"price": 1400,
 		"karmatype": "Good"
 	},
 	{
@@ -403,7 +338,7 @@
 	{
 		"abr": "fungalhuskwandersin",
 		"price": 600,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "factionwar",
@@ -456,18 +391,13 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "veemeteoriteshower",
-		"price": 600,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "animalpodcrash",
 		"price": 350,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "spacebattle",
-		"price": 600,
+		"price": 750,
 		"karmatype": "Neutral"
 	},
 	{
@@ -477,12 +407,12 @@
 	},
 	{
 		"abr": "cargopodsweapons",
-		"price": 4000,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "cargopodsapparel",
-		"price": 4000,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -511,5 +441,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 102
+	"total": 88
 }
