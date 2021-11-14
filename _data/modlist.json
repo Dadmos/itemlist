@@ -18,12 +18,6 @@
     "version": "1.3.0.4"
   },
   {
-    "author": "Haplo",
-    "name": "Misc. Robots",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Mehni",
     "name": "Pick Up And Haul",
     "steamId": null,
@@ -45,7 +39,7 @@
     "author": "Dubwise",
     "name": "Dubs Mint Minimap",
     "steamId": "1662119905",
-    "version": "1.3.767"
+    "version": "1.2.7365"
   },
   {
     "author": "Rainbeau Flambe (original) & Kiame Vivacity",
@@ -110,12 +104,6 @@
   {
     "author": "Lolidrop",
     "name": "Lolidrop's hairshop",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Security pack",
     "steamId": null,
     "version": null
   },
@@ -390,12 +378,6 @@
     "version": null
   },
   {
-    "author": "rooki1",
-    "name": "Rimsenal - Federation Faction Pack",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki",
     "name": "Vanilla Weapons Expanded - Laser",
     "steamId": null,
@@ -438,10 +420,16 @@
     "version": null
   },
   {
-    "author": "Sarg,  AFriend,  milon,  Skullywag and kaptain_kavern",
+    "author": "Sarg Bjornson and  AFriend",
     "name": "Alpha Animals",
     "steamId": "1541721856",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder and  Taranchuk",
+    "name": "Vanilla Factions Expanded - Mechanoids",
+    "steamId": "2329011599",
+    "version": "1.0.1.2"
   },
   {
     "author": "Krkr",
@@ -552,28 +540,10 @@
     "version": null
   },
   {
-    "author": "rooki1",
-    "name": "Rimsenal - Feral Faction Pack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Augmented Vanilla Pack",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Dubwise",
     "name": "Dubs Mint Menus",
     "steamId": "1446523594",
-    "version": "1.3.916"
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Core",
-    "steamId": null,
-    "version": null
+    "version": "1.0.0"
   },
   {
     "author": "Indeed",
@@ -639,13 +609,19 @@
     "author": "VinaLx",
     "name": "ResearchPal - Forked",
     "steamId": "2351393394",
-    "version": "1.3.0.1"
+    "version": "1.3.0.2"
   },
   {
     "author": "PinoChemicali and  Scherub",
     "name": "Skilled Stonecutting [1.3]",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.6.3"
   },
   {
     "author": "Victorique,  Aurani and  Tarojun",
@@ -681,7 +657,7 @@
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
-    "version": "1.3.3117.2"
+    "version": "1.3.3136.1"
   },
   {
     "author": "Smash Phil",
@@ -789,7 +765,7 @@
     "author": "Oblitus",
     "name": "Animals Logic",
     "steamId": "1098354593",
-    "version": "1.0.7856.17248"
+    "version": "1.0.7969.5967"
   },
   {
     "author": "Fluffy",
@@ -882,12 +858,6 @@
     "version": "1.6.0.0"
   },
   {
-    "author": "Kentington and Thain",
-    "name": "Save Our Ship 2",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Djgamer2k",
     "name": "Share The Load",
     "steamId": "2576277142",
@@ -915,7 +885,7 @@
     "author": "Inglix",
     "name": "Faster Biosculpter Pod",
     "steamId": "2576257954",
-    "version": "1.0.0.0"
+    "version": "2.6.1.0"
   },
   {
     "author": "telardo",
@@ -963,7 +933,7 @@
     "author": "saschahi",
     "name": "ToolkitAddon - More Stuff",
     "steamId": "2594931182",
-    "version": "1.1.4"
+    "version": "1.1.5"
   },
   {
     "author": "Oskar Potocki,  xrushha,  legodude17 and  ISOREX",
@@ -982,5 +952,143 @@
     "name": "Toolkit - Channel Points",
     "steamId": "1916651243",
     "version": "1.3.1"
+  },
+  {
+    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
+    "name": "Vanilla Ideology Expanded - Memes and Structures",
+    "steamId": "2636329500",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oldking",
+    "name": "Multi-Bed Royalty Patch (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Meltup",
+    "name": "Polyamory Beds (Vanilla Edition)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.3.0.1"
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "[JDS] Simple Storage",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Spdskatr",
+    "name": "1.3 SS Researchable Stat Upgrades (Reupload)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Atlas and  aRandomKiwi",
+    "name": "Android tiers",
+    "steamId": "1386412863",
+    "version": "3.0.0.3"
+  },
+  {
+    "author": "TheGoofyOne",
+    "name": "Amazonian River",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "jptrrs",
+    "name": "SpeakUp",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "avilmask",
+    "name": "Common Sense",
+    "steamId": "1561769193",
+    "version": "1.1.32"
+  },
+  {
+    "author": "targhetti",
+    "name": "Show Draftees Weapon",
+    "steamId": "1690978457",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Carny Senpai",
+    "name": "Enable Oversized Weapons",
+    "steamId": "2543371889",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "RimThemes",
+    "steamId": "1668983184",
+    "version": "2021.0.1.6"
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: Interface",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: N7",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: Extended Cut",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: Asari and Reapers",
+    "steamId": "2651149728",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Doug",
+    "name": "No Job Authors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DoctorVanGogh and  TheUbie & pointcache",
+    "name": "Omni Core Drill (Continued)",
+    "steamId": "2562491370",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: Drell",
+    "steamId": "2651150217",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "1845423808",
+    "version": "1.4.6"
   }
 ]
