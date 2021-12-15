@@ -414,28 +414,16 @@
     "version": "1.0.6.0"
   },
   {
-    "author": "Runne Latki",
-    "name": "Rabbie The Moonrabbit race",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Sarg Bjornson and  AFriend",
     "name": "Alpha Animals",
     "steamId": "1541721856",
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder and  Taranchuk",
+    "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder,  Taranchuk and  ISOREX",
     "name": "Vanilla Factions Expanded - Mechanoids",
     "steamId": "2329011599",
     "version": "1.0.1.2"
-  },
-  {
-    "author": "Krkr",
-    "name": "RocketMan - Performance Mod",
-    "steamId": "2479389928",
-    "version": "0.6.3.2196"
   },
   {
     "author": "Oskar Potocki",
@@ -696,12 +684,6 @@
     "version": null
   },
   {
-    "author": "Cabbage",
-    "name": "RimCities",
-    "steamId": "1775170117",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki,  Sarg Bjornson and  Aquiles",
     "name": "Vanilla Animals Expanded — Caves",
     "steamId": "2576512001",
@@ -712,18 +694,6 @@
     "name": "Wake Up",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Farmradish",
-    "name": "Nyaron race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Velc",
-    "name": "Hats Display Selection",
-    "steamId": "1542291825",
-    "version": "1.0.0.0"
   },
   {
     "author": "Kiame Vivacity",
@@ -741,12 +711,6 @@
     "author": "ssulunge",
     "name": "FemaleBB BodyType Support",
     "steamId": "1792668502",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "ssulunge",
-    "name": "Kijin Race 2.0",
-    "steamId": "1918120749",
     "version": "1.0.0.0"
   },
   {
@@ -768,26 +732,8 @@
     "version": "1.0.7969.5967"
   },
   {
-    "author": "Fluffy",
-    "name": "Colony Manager",
-    "steamId": "715565262",
-    "version": "4.33.649"
-  },
-  {
-    "author": "Hob Took",
-    "name": "Mortar Accuracy",
-    "steamId": "1729446857",
-    "version": "1.3.2"
-  },
-  {
     "author": "Telkir",
     "name": "[T] MoreFloors",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ILuvSilicon",
-    "name": "ShadowRimRaces",
     "steamId": null,
     "version": null
   },
@@ -814,12 +760,6 @@
     "name": "[KV] Supply and Demand",
     "steamId": "1511375007",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "sunny",
-    "name": "Rabbie The Moonrabbit - English Patch (1.3)",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Vambypants",
@@ -858,12 +798,6 @@
     "version": "1.6.0.0"
   },
   {
-    "author": "Djgamer2k",
-    "name": "Share The Load",
-    "steamId": "2576277142",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Smuffle",
     "name": "Harvest Organs Post Mortem",
     "steamId": null,
@@ -885,7 +819,7 @@
     "author": "Inglix",
     "name": "Faster Biosculpter Pod",
     "steamId": "2576257954",
-    "version": "2.6.1.0"
+    "version": "2.6.4"
   },
   {
     "author": "telardo",
@@ -933,19 +867,13 @@
     "author": "saschahi",
     "name": "ToolkitAddon - More Stuff",
     "steamId": "2594931182",
-    "version": "1.1.5"
+    "version": "1.1.7"
   },
   {
     "author": "Oskar Potocki,  xrushha,  legodude17 and  ISOREX",
     "name": "Vanilla Furniture Expanded - Architect",
     "steamId": "2608762624",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitResearch",
-    "steamId": "2312827542",
-    "version": "1.0.3.0"
   },
   {
     "author": "swemoney",
@@ -958,18 +886,6 @@
     "name": "Vanilla Ideology Expanded - Memes and Structures",
     "steamId": "2636329500",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Oldking",
-    "name": "Multi-Bed Royalty Patch (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Meltup",
-    "name": "Polyamory Beds (Vanilla Edition)",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Little White Mouse",
@@ -988,12 +904,6 @@
     "name": "1.3 SS Researchable Stat Upgrades (Reupload)",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Atlas and  aRandomKiwi",
-    "name": "Android tiers",
-    "steamId": "1386412863",
-    "version": "3.0.0.3"
   },
   {
     "author": "TheGoofyOne",
@@ -1020,12 +930,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Carny Senpai",
-    "name": "Enable Oversized Weapons",
-    "steamId": "2543371889",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Vanilla Expanded Team and Co.",
     "name": "Rim-Effect: Core",
     "steamId": null,
@@ -1034,18 +938,6 @@
   {
     "author": "Vanilla Expanded Team and Co.",
     "name": "Rim-Effect: Music",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "aRandomKiwi",
-    "name": "RimThemes",
-    "steamId": "1668983184",
-    "version": "2021.0.1.6"
-  },
-  {
-    "author": "Vanilla Expanded Team and Co.",
-    "name": "Rim-Effect: Interface",
     "steamId": null,
     "version": null
   },
@@ -1062,22 +954,10 @@
     "version": null
   },
   {
-    "author": "Vanilla Expanded Team and Co.",
-    "name": "Rim-Effect: Asari and Reapers",
-    "steamId": "2651149728",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Doug",
     "name": "No Job Authors",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "DoctorVanGogh and  TheUbie & pointcache",
-    "name": "Omni Core Drill (Continued)",
-    "steamId": "2562491370",
-    "version": "1.0.1.0"
   },
   {
     "author": "Vanilla Expanded Team and Co.",
@@ -1090,5 +970,269 @@
     "name": "SRTS Expanded",
     "steamId": "1845423808",
     "version": "1.4.6"
+  },
+  {
+    "author": "Scherub",
+    "name": "Stonecutting Extended",
+    "steamId": "2571676542",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Netrve",
+    "name": "Hunters Use Melee!",
+    "steamId": "2062709324",
+    "version": "1.2.1.0"
+  },
+  {
+    "author": "Neceros",
+    "name": "Faster Smoothing",
+    "steamId": "1807439023",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "denev",
+    "name": "Smart Turret Covering",
+    "steamId": "2636621800",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] More Slaves",
+    "steamId": "2021510577",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Underground Power Conduits",
+    "steamId": "1735421319",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "Raids For Me",
+    "steamId": "1633517937",
+    "version": "1.0.4.0"
+  },
+  {
+    "author": "Nephlite and  Maxim",
+    "name": "Utility Columns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  xrushha and  legodude17",
+    "name": "Vanilla Factions Expanded - Ancients",
+    "steamId": "2654846754",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  Taranchuk and  xrushha",
+    "name": "Vanilla Ideology Expanded - Anima Theme",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Go the F*** to Sleep",
+    "steamId": "2369307661",
+    "version": "1.0.2"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "No One Left Behind",
+    "steamId": "2401146569",
+    "version": "1.1.1"
+  },
+  {
+    "author": "Sandy",
+    "name": "RPG Style Inventory Revamped",
+    "steamId": "2478833213",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "民火",
+    "name": "Cut plants before building",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg",
+    "name": "Alpha Biomes",
+    "steamId": "1841354677",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson,  Helixien,  Cassie and  Luizi",
+    "name": "Alpha Memes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JI_Won",
+    "name": "Won hair_women ",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JI_Won",
+    "name": "Won hair_men",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Weilbyte",
+    "name": "Snap Out!",
+    "steamId": "1319782555",
+    "version": "0.7.5"
+  },
+  {
+    "author": "PlayIgel,  Alastair,  Kayedon,  SalmonToastie and  Xrushha",
+    "name": "VFME - Caravan Packs!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hazzer",
+    "name": "Fish Traps",
+    "steamId": "2594468074",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Tory",
+    "name": "Historical Religious Symbols",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Shadowrabbit",
+    "name": "[SR]Raid Extension",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "sakama",
+    "name": "Roppoi hair",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Riddle78",
+    "name": "Sealed Power Armour",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rooboid",
+    "name": "Roo's Glasses Hairstyles",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rooboid",
+    "name": "Roo's HD Hairstyles",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MonteCristo and Erin",
+    "name": "Persona 5 Hairstyles",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Blueprints",
+    "steamId": "708455313",
+    "version": "2.17.133"
+  },
+  {
+    "author": "balistafreak",
+    "name": "Standalone Hot Spring",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SGC",
+    "name": "More Utility Packs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sinnamon",
+    "name": "More Ritual Rewards",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SheiFoxy",
+    "name": "SF Grim Reality",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rooboid",
+    "name": "Roo's Dreadlock Hairstyles",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rooboid",
+    "name": "Roo's Royalty Hairstyles",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "[O21] Extended Hair",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Various Space Ship Chunk (Continued)",
+    "steamId": "2014616487",
+    "version": "1.0.6.0"
+  },
+  {
+    "author": "Grimm",
+    "name": "Un-Limited",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: Asari and Reapers",
+    "steamId": "2651149728",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Share The Load",
+    "steamId": "1356838246",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.2196"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Performance Analyzer",
+    "steamId": "2038874626",
+    "version": "1.0.0"
   }
 ]
