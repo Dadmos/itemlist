@@ -131,11 +131,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "militaryaid",
-		"price": 1400,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "raid",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -273,7 +268,7 @@
 	{
 		"abr": "alphaasteroid",
 		"price": 1000,
-		"karmatype": "Neutral"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "aeorofleetmigration",
@@ -441,5 +436,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 88
+	"total": 87
 }
